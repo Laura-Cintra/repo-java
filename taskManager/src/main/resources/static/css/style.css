@@ -68,6 +68,11 @@ tr:hover {
   transition: all 0.2s ease-in-out;
 }
 
+li {
+    margin-left: 4%;
+    margin-bottom: 3px;
+}
+
 /* Botões */
 a, button {
   display: inline-block;
